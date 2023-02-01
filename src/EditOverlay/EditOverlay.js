@@ -21,7 +21,7 @@ const EditOverlay = (props) => {
       <form onSubmit={submit}>
         <div onClick={closeOverlay}>X</div>
         <input
-          type="text"
+          type="number"
           value={kg}
           placeholder="Weigtht"
           onChange={(e) => {
@@ -29,7 +29,7 @@ const EditOverlay = (props) => {
           }}
         />
         <input
-          type="text"
+          type="number"
           value={reps}
           placeholder="Reps"
           onChange={(e) => {

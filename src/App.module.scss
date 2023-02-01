@@ -1,0 +1,36 @@
+@mixin veiw {
+  height: 100%;
+  width: 100%;
+}
+@mixin flex-collum {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  @include veiw();
+  @include flex-collum();
+  background: white;
+
+  h1 {
+    font-size: 30px;
+    padding: 10px;
+    background: black;
+    color: white;
+    cursor: pointer;
+  }
+
+  .mainSection {
+    @include veiw();
+    @include flex-collum();
+    gap: 10px;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    overflow: scroll;
+    padding: 10px;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+  background: rgb(211, 211, 211);
+  border-radius: 10px;
+  width: 100%;
+  border: 1px solid grey;
+  cursor: pointer;
+  font-size: large;
+  font-weight: bold;
+  box-shadow: 0 0 5px rgba($color: black, $alpha: 0.5);
+  &:hover {
+    background: rgb(202, 202, 202);
+  }
+  > div {
+    span {
+      font-size: 14px;
+    }
+  }
+}

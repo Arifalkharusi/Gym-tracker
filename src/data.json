@@ -1,0 +1,234 @@
+[
+  {
+    "day": "Shoulders",
+
+    "workout": [
+      {
+        "exName": "Overhead Press",
+        "weight": [
+          { "kg": "50", "reps": "6" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 6"
+      },
+      {
+        "exName": "Dips",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 10"
+      },
+      {
+        "exName": "Lateral Raise",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 12"
+      },
+      {
+        "exName": "Face Pull",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Shrug",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      }
+    ]
+  },
+  {
+    "day": "Back",
+
+    "workout": [
+      {
+        "exName": "Pull Ups",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 10"
+      },
+      {
+        "exName": "Bent-Over Row",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 8"
+      },
+      {
+        "exName": "Lat Pulldown",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Machine Row",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Cable Row",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      }
+    ]
+  },
+  {
+    "day": "Chest",
+
+    "workout": [
+      {
+        "exName": "Bench Press",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "6 x 6"
+      },
+      {
+        "exName": "Dumbell Press",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 10"
+      },
+      {
+        "exName": "Cable Fly",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 10"
+      },
+      {
+        "exName": "Chest Machine",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "5 x 10"
+      }
+    ]
+  },
+  {
+    "day": "Legs and Arms",
+
+    "workout": [
+      {
+        "exName": "Squirts",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Leg Curl",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Culf Press",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 20"
+      },
+      {
+        "exName": "Biceps Curl",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Rope Push-down",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Bar Curl",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      },
+      {
+        "exName": "Flat Push-down",
+        "weight": [
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" },
+          { "kg": "", "reps": "" }
+        ],
+        "sets": "3 x 10"
+      }
+    ]
+  }
+]
